@@ -1,0 +1,19 @@
+{
+  "name": "wlsjs-tutorials",
+  "version": "1.0.0",
+  "description": "List of Whaleshares JS Library Demos/Tutorials",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/polarityapp/wlsjs-tutorials.git"
+  },
+  "author": "Kenneth E Bennett 2",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/polarityapp/wlsjs-tutorials/issues"
+  },
+  "homepage": "https://github.com/polarityapp/wlsjs-tutorials#readme",
+  "dependencies": {
+    "@whaleshares/wlsjs": "^0.1.1"
+  }
+}

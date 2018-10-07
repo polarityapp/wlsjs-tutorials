@@ -1,0 +1,1 @@
+[Link](https://whaleshares.io/programming/@kennybll/write-your-own-whaleshares-program-wlsjs-tutorials-1) to the original post.
